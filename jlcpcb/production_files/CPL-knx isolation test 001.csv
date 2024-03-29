@@ -1,0 +1,17 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nf,C_0603_1608Metric,41.5,-42.5,-90.0,top
+C2,100nf,C_0603_1608Metric,48.5,-27.5,90.0,top
+D1,yellow,LED_0603_1608Metric,33.0,-33.0,180.0,top
+D2,green,LED_0603_1608Metric,33.0,-39.0,180.0,top
+D3,green,LED_0603_1608Metric,57.0,-33.0,0.0,top
+D4,yellow,LED_0603_1608Metric,57.0,-39.0,0.0,top
+R1,1k,R_0603_1608Metric,37.0,-29.0,0.0,top
+R2,1k,R_0603_1608Metric,37.0,-33.0,0.0,top
+R3,1k,R_0603_1608Metric,37.0,-43.0,0.0,top
+R4,1k,R_0603_1608Metric,37.0,-39.0,0.0,top
+R5,1k,R_0603_1608Metric,53.0,-43.0,0.0,top
+R6,1k,R_0603_1608Metric,53.0,-33.0,180.0,top
+R7,1k,R_0603_1608Metric,53.0,-39.0,180.0,top
+R8,1k,R_0603_1608Metric,53.0,-30.0,180.0,top
+U1,ACPL-M61L-500E,SO-5_4.4x3.6mm_P1.27mm,45.0,-31.5,0.0,top
+U2,ACPL-M61L-500E,SO-5_4.4x3.6mm_P1.27mm,45.0,-38.5,180.0,top
